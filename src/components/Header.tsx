@@ -11,7 +11,7 @@ export default function Header() {
             <Calendar className="w-5 h-5 text-white" />
           </div>
           <span className="bg-gradient-sport bg-clip-text text-transparent">
-            SportBook
+            BookaPlay
           </span>
         </Link>
         
